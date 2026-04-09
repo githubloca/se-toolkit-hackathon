@@ -1,0 +1,12 @@
+This package was finalized for submission readiness.
+
+What was updated:
+- MIT LICENSE added/updated
+- README expanded to match the lab submission structure
+- OpenRouter environment template preserved
+- docs/assets prepared for README screenshots
+
+Reminder:
+- Do NOT commit your real .env file to GitHub
+- Only one uploaded screenshot file was available in the container, so it was copied to all three README image paths.
+- If you want three distinct screenshots in GitHub, replace the files in docs/assets with your own three images.
